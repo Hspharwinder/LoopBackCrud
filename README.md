@@ -6,7 +6,8 @@
 
 https://loopback.io/doc/en/lb4/Getting-started.html
 
-1. lb4 app <your app name> --yes
+1. lb4 app <your app name> --yes   (make sure your app name letter sholud be small)
+	e.g. lb4 loop-back-angluar-node-real-time-chat --yes 
 
 2. npm start
 
